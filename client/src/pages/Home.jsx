@@ -62,10 +62,7 @@ const Home = () => {
   return (
     <section className="max-w-7xl mx-auto">
       <div>
-        <h1 className="font-extrabold text-[#222328] text-[32px]">
-          {" "}
-          Spotlight
-        </h1>
+        <h1 className="font-extrabold text-[#222328] text-[32px]"> GenSnap</h1>
         <p className="mt-2 text-[#666e75] text-[16px] max-w-[500px]">
           Explore a compilation of creative and visually striking images
           produced by the DALL-E AI.
